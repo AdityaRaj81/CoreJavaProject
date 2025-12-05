@@ -1,4 +1,4 @@
-package CoreJava.patterns;
+package coreJava.patterns;
 
 import java.util.Scanner;
 
@@ -11,6 +11,7 @@ public class GridPattern {
             System.out.println();
         }
     }
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the number of rows: ");
